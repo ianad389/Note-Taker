@@ -27,7 +27,7 @@ app.post("/api/notes", function(req, res) {
       res.json(note);
     })
 });
-// API Route | "DELETE" request
+// API Route 
 app.delete("/api/notes/:id", function(req, res) {
     const idToDelete = parseInt(req.params.id);
     readFileAsync("./develop/db/db.json", "utf8").then(function(data) {
