@@ -1,8 +1,13 @@
 # 11 Express.js: Note Taker
+My job for this assignment was to create a note taker on the backend. In this project I divided up the js files to create more of an organize way to interact with eachother. One challenge was correcting the paths to make sure the code was working.
 
 
+# Screenshots
 
+![App Screenshot](./img.png)
 
+# Videolink
+https://drive.google.com/file/d/1mCOAAL_G-VNjnbUZUvCgLrSA2qtKr4KF/view
 ## Acceptance Criteria
 
 ```
@@ -21,4 +26,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
-
+# Credits
+A video I was learning from helped me on this assignment.
+https://www.youtube.com/watch?v=BSVWmsGU4Dc
+https://github.com/viakeegan
